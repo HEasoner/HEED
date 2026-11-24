@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+features/
+outputs/
+figures/*
+!figures/heed_pipeline.png
+!figures/heed_pipeline.pdf
